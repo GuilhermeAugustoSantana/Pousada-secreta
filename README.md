@@ -6,7 +6,7 @@ A proposta desse projeto foi criar uma página web utilizando as tecnologias HTM
 
 Utilizar tags HTML básicas;
 
-Estilizar uma página.
+Estilizar uma página. Com foco nas seguintes propriedades:
 
 - Diplay flex
 - Position
