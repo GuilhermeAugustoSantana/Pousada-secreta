@@ -1,0 +1,32 @@
+* {
+   box-sizing: border-box;
+}
+
+.bg-inicio{
+   width: 100vw;
+   height: 300px;
+   background-image: url(../img/img-fundo.jpg);
+   background-size: cover;
+}
+
+.secao-info {
+   margin-top: 50px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding: 0 40px;
+}
+
+.lista-quartos{
+   width: 100%;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   margin-bottom: 50px;
+}
+
+.lista-quartos li {
+   width: 25%;
+   padding-bottom: 10px;
+   color: #666666;
+}
